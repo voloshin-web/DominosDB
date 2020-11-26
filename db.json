@@ -2,8 +2,23 @@
 	"sliderData": [
 		{
 			"id": 1,
-			"btnDetails": "Детали",
 			"img": "img/slider/BlackFriday.jpg"
+		},
+		{
+			"id": 2,
+			"img": "discount.jpg"
+		},
+		{
+			"id": 3,
+			"img": "slider5.jpg"
+		},
+		{
+			"id": 4,
+			"img": "img/slider/BlackFriday.jpg"
+		},
+		{
+			"id": 5,
+			"img": "slider30minutes.jpg"
 		}
 	]
 }
