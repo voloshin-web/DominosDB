@@ -1,5 +1,5 @@
 {
-	"sliderData": [
+	"promotions": [
 		{
 			"img": "img/promo/80percent.jpg",
 			"alt": "80percent_promo",
@@ -34,6 +34,28 @@
 			"date": "16-09-2020",
 			"title": "20% на все!",
 			"description": "Новое выгодное предложение! Получай 20% скидки на свой заказ в пиццерии! Акция распространяется на все позиции с меню, кроме алкогольных напитков и безалкогольного пива. Акция действует только для заказов в пиццерии и с собой. Акционное предложение не распространяется на заказы на доставку. Акция не суммируется с другими акционными предложениями. Условия программы лояльности Domino`s Club распространяются на акционное предложение. Акция действует с 16.09.20 по 31.12.20 г."
+		}
+	],
+	"sliderData": [
+		{
+			"img": "img/slider/BlackFriday.jpg",
+			"alt": "BlackFriday"
+		},
+		{
+			"img": "img/slider/discount.jpg",
+			"alt": "discount"
+		},
+		{
+			"img": "img/slider/slider3.jpg",
+			"alt": "slide3"
+		},
+		{
+			"img": "img/slider/slider4.jpg",
+			"alt": "slide4"
+		},
+		{
+			"img": "img/slider/slider30minutes.jpg",
+			"alt": "30minutes"
 		}
 	]
 }
