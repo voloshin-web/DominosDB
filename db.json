@@ -83,5 +83,42 @@
 			"descr": "Кукуруза, Лук, Грибы, Колбаски баварские, Моцарелла, Соус Барбекю",
 			"price": 92.99			
 		}
+	],
+	"dessert": [
+		{
+			"img": "img/dessert/ChocoRolltarelka.jpg",
+			"alt": "ChocoRolltarelka",
+			"weight": "239 г",
+			"title": "Шоколадные роллы",
+			"price": 79.99
+		},
+		{
+			"img": "img/dessert/white_maffin.jpg",
+			"alt": "white_maffin",
+			"weight": "90 г",
+			"title": "Ванильный маффин",
+			"price": 32.99
+		},
+		{
+			"img": "img/dessert/black_maffin.jpg",
+			"alt": "black_maffin",
+			"weight": "90 г",
+			"title": "Шоколадный маффин",
+			"price": 32.99
+		},
+		{
+			"img": "img/dessert/lava_cake.jpg",
+			"alt": "lava_cake",
+			"weight": "90 г",
+			"title": "Лава кейк",
+			"price": 59.99
+		},
+		{
+			"img": "img/dessert/baity.jpg",
+			"alt": "baity",
+			"weight": "176 г",
+			"title": "Байтсы с корицей",
+			"price": 57.99
+		}
 	]
 }
