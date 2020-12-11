@@ -120,5 +120,35 @@
 			"title": "Байтсы с корицей",
 			"price": 57.99
 		}
+	],
+	"beverages": [
+		{
+			"img": "img/beverages/gaz.png",
+			"alt": "gaz",
+			"weight": "500 мл",
+			"title": "BonAqua г",
+			"price": 24
+		},
+		{
+			"img": "img/beverages/NG.png",
+			"alt": "ng",
+			"weight": "500 мл",
+			"title": "BonAqua н/г",
+			"price": 24
+		},
+		{
+			"img": "img/beverages/cc.png",
+			"alt": "cc",
+			"weight": "500 мл",
+			"title": "Coca-Cola",
+			"price": 24
+		},
+		{
+			"img": "img/beverages/cczero.png",
+			"alt": "cczero",
+			"weight": "500 мл",
+			"title": "Coca-Cola Zero",
+			"price": 24
+		}
 	]
 }
