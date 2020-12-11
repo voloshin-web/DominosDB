@@ -70,7 +70,7 @@
 		{
 			"img": "img/pizza/margarita.jpg",
 			"alt": "margarita",
-			"weight": "339 г"
+			"weight": "339 г",
 			"title": "Пицца Маргарита",
 			"descr": "Моцарелла, Соус Domino's",
 			"price": 92.99			
@@ -78,6 +78,7 @@
 		{
 			"img": "img/pizza/texas.jpg",
 			"alt": "texas",
+			"weight": "378 г",
 			"title": "Пицца Техас",
 			"descr": "Кукуруза, Лук, Грибы, Колбаски баварские, Моцарелла, Соус Барбекю",
 			"price": 92.99			
