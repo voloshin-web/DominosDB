@@ -59,7 +59,7 @@
 		}
 	],
 	"pizza": [
-		"bestPrice" = [
+		"bestPrice": [
 			{
 				"img": "img/pizza/paperoni.jpg",
 				"alt": "paperoni_Pizza",
