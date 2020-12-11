@@ -62,29 +62,24 @@
 		{
 			"img": "img/pizza/paperoni.jpg",
 			"alt": "paperoni_Pizza",
+			"weight": "350 г",
 			"title": "Пицца Пепперони с томатами",
 			"descr": "Моцарелла, Пепперони, Помидоры, Соус Барбекю",
 			"price": 92.99			
 		},
 		{
-			"img": "img/pizza/paperoni.jpg",
-			"alt": "paperoni_Pizza",
-			"title": "Пицца Пепперони с томатами",
-			"descr": "Моцарелла, Пепперони, Помидоры, Соус Барбекю",
+			"img": "img/pizza/margarita.jpg",
+			"alt": "margarita",
+			"weight": "339 г"
+			"title": "Пицца Маргарита",
+			"descr": "Моцарелла, Соус Domino's",
 			"price": 92.99			
 		},
 		{
-			"img": "img/pizza/paperoni.jpg",
-			"alt": "paperoni_Pizza",
-			"title": "Пицца Пепперони с томатами",
-			"descr": "Моцарелла, Пепперони, Помидоры, Соус Барбекю",
-			"price": 92.99			
-		},
-		{
-			"img": "img/pizza/paperoni.jpg",
-			"alt": "paperoni_Pizza",
-			"title": "Пицца Пепперони с томатами",
-			"descr": "Моцарелла, Пепперони, Помидоры, Соус Барбекю",
+			"img": "img/pizza/texas.jpg",
+			"alt": "texas",
+			"title": "Пицца Техас",
+			"descr": "Кукуруза, Лук, Грибы, Колбаски баварские, Моцарелла, Соус Барбекю",
 			"price": 92.99			
 		}
 	]
