@@ -149,6 +149,34 @@
 			"weight": "500 мл",
 			"title": "Coca-Cola Zero",
 			"price": 24
+		},
+		{
+			"img": "img/beverages/fan.png",
+			"alt": "fan",
+			"weight": "500 мл",
+			"title": "Fanta Апельсин",
+			"price": 24
+		},
+		{
+			"img": "img/beverages/sprite.png",
+			"alt": "sprite",
+			"weight": "500 мл",
+			"title": "Sprite",
+			"price": 24
+		},
+		{
+			"img": "img/beverages/apple.png",
+			"alt": "apple",
+			"weight": "500 мл",
+			"title": "Rich Яблоко",
+			"price": 46
+		},
+		{
+			"img": "img/beverages/exo.png",
+			"alt": "exo",
+			"weight": "500 мл",
+			"title": "Rich Экзотик",
+			"price": 32
 		}
 	]
 }
